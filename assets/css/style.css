@@ -209,8 +209,8 @@ h1, h2, h3, h4, h5, h6 {
 # Hero Section
 --------------------------------------------------------------*/
 .pro {
-  padding-left: 40px;
-  padding-right: 40px;
+  padding-left: 30px;
+  padding-right:30px;
 }
 
 #hero {
@@ -283,8 +283,8 @@ h1, h2, h3, h4, h5, h6 {
 section {
   padding: 60px 0;
   overflow: hidden;
-  padding-left: 40px;
-  padding-right: 40px;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 .section-bg {
